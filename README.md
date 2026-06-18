@@ -66,8 +66,8 @@ Welcome to my GitHub! I'm a passionate cloud infrastructure engineer with **2.5+
 ## 🔗 Connect With Me
 
 - **GitHub**: [@avenaash](https://github.com/avenaash)
-- **LinkedIn**: [Connect with me](#)
-- **Email**: Reach out for collaborations or opportunities
+- **LinkedIn**: [ www.linkedin.com/in/avenaash-r-s ](#)
+- **Email**: avenaashrs@gmail.com / +91 7338709480
 
 ---
 
@@ -97,7 +97,3 @@ I'm open to:
 - **Mentoring & knowledge sharing** 📖
 
 Feel free to reach out for discussions, collaborations, or opportunities!
-
----
-
-*Last Updated: June 2026*
