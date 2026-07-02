@@ -32,6 +32,7 @@ Welcome to my GitHub! I'm a passionate cloud infrastructure engineer with **2.5+
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
+| **[CICD End2End GitOps Capstone Project]([https://github.com/avenaash/SpringBoot-CRUD](https://github.com/avenaash/cloud-native-cicd))** | ☁️ Cloud-Native CI/CD: FastAPI + GitHub Actions + ArgoCD + Monitoring |
 | **[SpringBoot-CRUD](https://github.com/avenaash/SpringBoot-CRUD)** | Enterprise-grade CRUD application | Java, Spring Boot, REST APIs |
 | **[agent_memory_store](https://github.com/avenaash/agent_memory_store)** | Advanced memory management system | Python, Data Engineering |
 | **[Hermes21](https://github.com/avenaash/Hermes21)** | Intelligent automation project | Python, ML/AI |
